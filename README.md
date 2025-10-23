@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/lUSBdG7.gif" alt="Journisha Dolphin Banner" width="100%" />
+  <img src="[https://imgur.com/gallery/github-gif-lUSBdG7](https://imgur.com/gallery/github-gif-lUSBdG7)" alt="Journisha Dolphin Banner" width="100%" />
 </p>
 
 <h3 align="center">🚀 Junior Site Reliability Engineer | Cloud & Automation Enthusiast ☁️</h3>
