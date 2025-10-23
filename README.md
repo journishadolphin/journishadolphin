@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.imgur.com/lUSBdG7.gif" alt="Journisha Dolphin Banner" width="100%" />
+</p>
+
+<h3 align="center">🚀 Junior Site Reliability Engineer | Cloud & Automation Enthusiast ☁️</h3>
+
 # ✨ About Me
 
 👋🏾 Hey there! I’m **Journisha**, a **Junior Site Reliability Engineer (SRE)** who loves solving puzzles, breaking things (on purpose 😅), and putting them back together even better.  
