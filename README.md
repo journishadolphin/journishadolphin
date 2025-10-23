@@ -1,16 +1,42 @@
-# 💫 About Me:
-👋 Welcome to my Github page! <br><br>My name is Journisha and I’m a junior Site Reliability Engineer (SRE) who loves solving puzzles, breaking things (on purpose 😅), and making them even better when I put them back together. My journey in tech started years ago through internships that taught me the ropes of real-world systems and I’ve been hooked ever since.<br><br>Right now, I’m focused on sharpening my skills in automation, observability, and cloud infrastructure, while working toward my goal of becoming a specialized SRE. I love diving deep into complex systems, experimenting with new tools, and learning how everything fits together under the hood.<br><br>At heart, I’m an adventurer in tech and I make it a point to always be curious and to always explore. Whether it’s tackling a new reliability challenge, building something cool in my homelab, or discovering a new side of DevOps, I’m all about growth and good vibes along the way!<br><br>✨SRE motto: “If it moves, automate it. If it breaks, monitor it. If it still breaks… well, that’s what the postmortem is for.” 
+# ✨ About Me
 
+👋🏾 Hey there! I’m **Journisha**, a **Junior Site Reliability Engineer (SRE)** who loves solving puzzles, breaking things (on purpose 😅), and putting them back together even better.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/journisha-dolphin-3b1b40156) 
+My journey started with tech internships that taught me the ropes of real-world systems — and I’ve been hooked ever since. These days, I’m leveling up in **automation**, **observability**, and **cloud infrastructure**, working toward becoming a specialized SRE.  
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=journishadolphin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=journishadolphin&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=journishadolphin&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Whether it’s building something in my **homelab**, fine-tuning monitoring tools, or exploring new sides of **DevOps**, I’m driven by my never-ending pursuit of curiosity and creativity.  
+
+> 🧠 **SRE Motto:**  
+> “If it moves, automate it. If it breaks, monitor it.  
+> If it still breaks… that’s what the postmortem is for.”
 
 ---
-[![](https://visitcount.itsvg.in/api?id=journishadolphin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%232E2E2E.svg?style=for-the-badge&logo=linkedin&logoColor=%23D4AF37)](https://linkedin.com/in/journisha-dolphin-3b1b40156)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-%232E2E2E?style=for-the-badge&logo=python&logoColor=%23D4AF37)
+![Bash](https://img.shields.io/badge/Bash-%230A0A0A?style=for-the-badge&logo=gnu-bash&logoColor=%23F5F5F5)
+![PowerShell](https://img.shields.io/badge/PowerShell-%232E2E2E?style=for-the-badge&logo=powershell&logoColor=%23F5F5F5)
+![AWS](https://img.shields.io/badge/AWS-%238B6C42?style=for-the-badge&logo=amazon-aws&logoColor=%23F5F5F5)
+![Prometheus](https://img.shields.io/badge/Prometheus-%230A0A0A?style=for-the-badge&logo=prometheus&logoColor=%23D4AF37)
+![Splunk](https://img.shields.io/badge/Splunk-%232E2E2E?style=for-the-badge&logo=splunk&logoColor=%23D4AF37)
+![Git](https://img.shields.io/badge/Git-%230A0A0A?style=for-the-badge&logo=git&logoColor=%23D4AF37)
+![Jenkins](https://img.shields.io/badge/Jenkins-%238B6C42?style=for-the-badge&logo=jenkins&logoColor=%23F5F5F5)
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=journishadolphin&theme=graywhite&hide_border=true&title_color=D4AF37&icon_color=8B6C42&text_color=2E2E2E)
+![](https://nirzak-streak-stats.vercel.app/?user=journishadolphin&theme=graywhite&hide_border=true&stroke=D4AF37)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=journishadolphin&layout=compact&theme=graywhite&hide_border=true&title_color=D4AF37&text_color=2E2E2E)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=journishadolphin&icon=0&color=2E2E2E)](https://visitcount.itsvg.in)
+
