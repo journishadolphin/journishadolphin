@@ -6,9 +6,7 @@ My journey started with tech internships that taught me the ropes of real-world 
 
 Whether it’s building something in my **homelab**, fine-tuning monitoring tools, or exploring new sides of **DevOps**, I’m driven by my never-ending pursuit of curiosity and creativity.  
 
-> 🧠 **SRE Motto:**  
-> “If it moves, automate it. If it breaks, monitor it.  
-> If it still breaks… that’s what the postmortem is for.”
+
 
 ---
 
