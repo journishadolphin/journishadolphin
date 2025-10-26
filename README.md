@@ -1,18 +1,15 @@
 <p align="center">
-  <img src="https://i.imgur.com/MPYXjzb.mp4" alt="Journisha Dolphin Banner" width="100%" />
+  <img src="https://i.imgur.com/MPYXjzb.gif" alt="Journisha Dolphin Banner" width="100%" />
 </p>
 
-<h3 align="center">🚀 Junior Site Reliability Engineer | Cloud & Automation Enthusiast ☁️</h3>
+<h3 align="center"> Site Reliability Engineer | Cloud & Automation Enthusiast </h3>
 
-# ✨ About Me
+# About Me
+I am Journisha, a **Site Reliability Engineer (SRE)** who turns complex systems into streamlined, observable, and automated experiences.
 
-👋🏾 Hey there! I’m **Journisha**, a **Junior Site Reliability Engineer (SRE)** who loves solving puzzles, breaking things (on purpose 😅), and putting them back together even better.  
+Currently operating at the intersection of DevOps and Site Reliability, I ensure **platform health**, **stability**, and **scalability** using tools like **Splunk**, **Dynatrace**, and **Pivotal Cloud Foundry**. I build dashboards that make data speak, automate scripts that cuts manual load, and process incidents to restore system reliability.
 
-My journey started with tech internships that taught me the ropes of real-world systems — and I’ve been hooked ever since. These days, I’m leveling up in **automation**, **observability**, and **cloud infrastructure**, working toward becoming a specialized SRE.  
-
-Whether it’s building something in my **homelab**, fine-tuning monitoring tools, or exploring new sides of **DevOps**, I’m driven by my never-ending pursuit of curiosity and creativity.  
-
-
+When I am not optimizing cloud environments, I am experimenting in her homelab, testing out new automations, and continuously refining my technical toolkit. My career is driven by one goal: To make technology seamless, reliable, and human-centered.
 
 ---
 
